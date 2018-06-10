@@ -2,25 +2,13 @@
 layout: default
 ---
 
-{% include hero-sub.html %}
-
-<section class="container position-relative page mb-5 pb-5">
-  <div class="row">
- 
-    <div class="col-4 col-lg-4 d-none d-lg-block">
-      <img src="{{ site.baseurl }}/assets/app-narrow.png" alt="autoSense" class="hero-app position-relative">
+<div class="container primary-border p-5">
+  <div class="row"> 
+    <div class="col-sm-12 col-md-5 col-lg-4 text-center">
+        <img class="mb-5" src="/assets/{{ page.image }}">    
     </div>
-
-    <div class="col-12 col-lg-8 pl-lg-5">
-      <h1 class="post-title">{{ page.title }}</h1>
-      {{ content }}
+    <div class="col-sm-12 col-md-7 col-lg-8">
+        <p>{{ content }}</p>    
     </div>
- 
   </div>
-
-
 </section>
-
-
-
-
