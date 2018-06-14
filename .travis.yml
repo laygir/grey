@@ -2,6 +2,7 @@ language: ruby
 rvm:
   - 2.2
 script:
+  - bundle install
   - jekyll build
 install:
   - npm install -g firebase-tools
