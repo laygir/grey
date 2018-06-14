@@ -3,3 +3,6 @@ rvm:
   - 2.2
   - jruby
   - 2.0.0-p247
+
+script:
+ — echo "Deploy!"
