@@ -15,8 +15,8 @@ script: ./script/cibuild
 sudo: false # route your build to the container-based infrastructure for a faster build
 
 cache: bundler # caching bundler gem packages will speed up build
+after_success:
+ — firebase deploy --token $FIREBASE_TOKEN
 
 install:
  — npm install -g firebase-tools
-after_success:
- — firebase deploy --token $FIREBASE_TOKEN
