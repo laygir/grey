@@ -23,7 +23,3 @@ gallery:
 Ajans Press, the pioneer and leader of media monitoring business in Turkey, has been providing service since the day it was founded in 1953. In addition to press, television, radio and internet monitoring and media analysis service, Ajans Press also provides news agency monitoring, sectoral agenda, tape-scripting and translation services.
 
 We designed and directed a TV Ad for their new courier service “Ajans Press Kurye”, the new company focuses on cooperative distribution of promotional materials etc.
-
-Hello CI!
-
-Hey
