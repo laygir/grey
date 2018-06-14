@@ -4,7 +4,7 @@ rvm:
   - jruby
   - 2.0.0-p247
 script:
-  — echo "Deploy!"
+  - echo "Deploy!"
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
