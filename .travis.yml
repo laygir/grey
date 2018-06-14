@@ -1,6 +1,4 @@
 language: ruby
-node_js:
- — "8.11.1"
 script:
  — echo "Deploy!"
 install:
