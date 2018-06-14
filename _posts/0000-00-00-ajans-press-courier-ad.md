@@ -13,11 +13,6 @@ client: Ajans Press
 role: Art Direction and Illustration
 gallery:
 - image: ajans-press-courier-ad-01.jpg
-- image: ajans-press-courier-ad-02.jpg
-- image: ajans-press-courier-ad-03.jpg
-- image: ajans-press-courier-ad-04.jpg
-- image: ajans-press-courier-ad-05.jpg
-- image: ajans-press-courier-ad-06.jpg
 ---
 
 Ajans Press, the pioneer and leader of media monitoring business in Turkey, has been providing service since the day it was founded in 1953. In addition to press, television, radio and internet monitoring and media analysis service, Ajans Press also provides news agency monitoring, sectoral agenda, tape-scripting and translation services.
