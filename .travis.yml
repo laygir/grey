@@ -2,7 +2,7 @@ language: ruby
 rvm:
   - 2.2
 script:
-  - echo "Deploy!"
+  - jekyll build
 install:
   - npm install -g firebase-tools
 after_success:
