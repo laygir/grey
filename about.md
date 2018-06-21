@@ -20,3 +20,7 @@ In 2012 i co-founded the brand called “Nice to Have”, which produces delicat
 You may take a look at what we have been up to in our retail and online store.
 
 [Let's talk](/contact/)
+
+**Fonctionnalités**
+
+Votre voiture dans une application. Connectez-vous à votre voiture via l'application autoSense : L'application vous offre une variété de fonctions, d'informations et de services.
