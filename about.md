@@ -20,5 +20,3 @@ In 2012 i co-founded the brand called “Nice to Have”, which produces delicat
 You may take a look at what we have been up to in our retail and online store.
 
 [Let's talk](/contact/)
-
-hey
